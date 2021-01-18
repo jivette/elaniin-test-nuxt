@@ -1,0 +1,225 @@
+/*Open Sans*/
+@font-face {
+    font-family: 'open_sansbold';
+    src: url('~assets/fonts/open-sans/opensans-bold-webfont.woff2') format('woff2'),
+         url('~assets/fonts/open-sans/opensans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sansextrabold';
+    src: url('~assets/fonts/open-sans/opensans-extrabold-webfont.woff2') format('woff2'),
+         url('~assets/fonts/open-sans/opensans-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sanslight';
+    src: url('~assets/fonts/open-sans/opensans-light-webfont.woff2') format('woff2'),
+         url('~assets/fonts/open-sans/opensans-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('~assets/fonts/open-sans/opensans-regular-webfont.woff2') format('woff2'),
+         url('~assets/fonts/open-sans/opensans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*Syne*/
+@font-face {
+    font-family: 'synebold';
+    src: url('~assets/fonts/syne/syne-bold-webfont.woff2') format('woff2'),
+         url('~assets/fonts/syne/syne-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'syneextra';
+    src: url('~assets/fonts/syne/syne-extra-webfont.woff2') format('woff2'),
+         url('~assets/fonts/syne/syne-extra-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'syneitalic';
+    src: url('~assets/fonts/syne/syne-italic-webfont.woff2') format('woff2'),
+         url('~assets/fonts/syne/syne-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'synemono';
+    src: url('~assets/fonts/syne/syne-mono-webfont.woff2') format('woff2'),
+         url('~assets/fonts/syne/syne-mono-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'syneregular';
+    src: url('~assets/fonts/syne/syne-regular-webfont.woff2') format('woff2'),
+         url('~assets/fonts/syne/syne-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*drunk*/
+@font-face {
+    font-family: 'druk_text_widebold';
+    src: url('~assets/fonts/drunk/druktextwide-bold-webfont.woff2') format('woff2'),
+         url('~assets/fonts/drunk/druktextwide-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'druk_text_widebold_italic';
+    src: url('~assets/fonts/drunk/druktextwide-bolditalic-webfont.woff2') format('woff2'),
+         url('~assets/fonts/drunk/druktextwide-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'druk_text_wideheavy';
+    src: url('~assets/fonts/drunk/druktextwide-heavy-webfont.woff2') format('woff2'),
+         url('~assets/fonts/drunk/druktextwide-heavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'druk_text_wideheavy_italic';
+    src: url('~assets/fonts/drunk/druktextwide-heavyitalic-webfont.woff2') format('woff2'),
+         url('~assets/fonts/drunk/druktextwide-heavyitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'druk_text_widemedium';
+    src: url('~assets/fonts/drunk/druktextwide-medium-webfont.woff2') format('woff2'),
+         url('~assets/fonts/drunk/druktextwide-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'druk_text_widemedium_italic';
+    src: url('~assets/fonts/drunk/druktextwide-mediumitalic-webfont.woff2') format('woff2'),
+         url('~assets/fonts/drunk/druktextwide-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'druk_text_widesuper';
+    src: url('~assets/fonts/drunk/druktextwide-super-webfont.woff2') format('woff2'),
+         url('~assets/fonts/drunk/druktextwide-super-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'druk_text_widesuper_italic';
+    src: url('~assets/fonts/drunk/druktextwide-superitalic-webfont.woff2') format('woff2'),
+         url('~assets/fonts/drunk/druktextwide-superitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+$sans_bold: 'open_sansbold';
+$sans_extraBold: 'open_sansextrabold';
+$sans_light: 'open_sanslight';
+$sans_regular: 'open_sansregular';
+
+$syne_bold: 'synebold';
+$syne_extra: 'syneextra';
+$syne_italic: 'syneitalic';
+$syne_mono: 'synemono';
+$syne_regular: 'syneregular';
+
+
+$drunk_widebold: 'druk_text_widebold';
+$drunk_widebold_italic: 'druk_text_widebold_italic';
+$drunk_wideheavy: 'druk_text_wideheavy';
+$drunk_wideheavy_italic: 'druk_text_wideheavy_italic';
+$drunk_widemedium: 'druk_text_widemedium';
+$drunk_widemedium_italic: 'druk_text_widemedium_italic';
+$drunk_widesuper: 'druk_text_widesuper';
+$drunk_widesuper_italic: 'druk_text_widesuper_italic';
+
+.sans_bold {
+    font-family: $sans_bold;
+}
+.sans_extraBold {
+    font-family: $sans_extraBold;
+}
+.sans_light {
+    font-family: $sans_light;
+}
+.sans_regular {
+    font-family: $sans_regular;
+}
+.syne_bold {
+    font-family: $syne_bold;
+}
+.syne_extra {
+    font-family: $syne_extra;
+}
+.syne_italic {
+    font-family: $syne_italic;
+}
+.syne_mono {
+    font-family: $syne_mono;
+}
+.syne_regular {
+    font-family: $syne_regular;
+}
+
+.drunk_widebold {
+    font-family: $drunk_widebold;
+}
+.drunk_widebold_italic {
+    font-family: $drunk_widebold_italic;
+}
+.drunk_wideheavy {
+    font-family: $drunk_wideheavy;
+}
+.drunk_wideheavy_italic {
+    font-family: $drunk_wideheavy_italic;
+}
+.drunk_widemedium {
+    font-family: $drunk_widemedium;
+}
+.drunk_widemedium_italic {
+    font-family: $drunk_widemedium_italic;
+}
+.drunk_widesuper {
+    font-family: $drunk_widesuper;
+}
+.drunk_widesuper_italic {
+    font-family: $drunk_widesuper_italic;
+}
