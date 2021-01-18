@@ -5,6 +5,7 @@
 - Bulma
 - nuxt framework
 - VueJS
+- Axios
 
 ## Build Setup
 
