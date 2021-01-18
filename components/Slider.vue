@@ -50,6 +50,9 @@
                 z-index: 0;
                 mix-blend-mode: color-burn;
                 margin-left: -15px;
+                @media(max-width: 767px) { /* <== You can change this break point as per your  needs */
+                    width: 90%
+                }
             }
         }
         .description {

@@ -33,8 +33,12 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/bootstrap
     '@nuxtjs/bulma',
-    '@nuxtjs/style-resources'
+    '@nuxtjs/style-resources',
+    '@nuxtjs/axios'
   ],
+  axios: {
+    baseURL: process.env.API_URL,
+  },
  //You will have to add this new object if it doesn't exist already
   styleResources: {
     scss: ['./assets/scss/*.scss']

@@ -1,9 +1,9 @@
 <template>
-    <div  class="columns is-vcentered section-2">        
+    <div  class="columns is-vcentered section-2" id="about-us">        
         <div  class="column container-background">
             <img src="../assets/images/bg_2.png" alt="" width="100%">
             <div class="legend">
-                <h1 class="is-full title m-0 is-2 is-desktop  has-text-right drunk_widebold has-text-white">
+                <h1 class="title m-0 is-2 is-desktop  has-text-right drunk_widebold has-text-white">
                     LA COMIDA ES 
                 </h1>
                 <h1 class="title is-2 is-desktop has-text-right highlight-title drunk_widebold has-text-yellow">
@@ -11,7 +11,7 @@
                 </h1>
             </div>                 
         </div>
-        <div  class="column">
+        <div  class="column p-6">
             <p class="subtitle is-5 has-text-left is-flex is-vcentered syne_bold has-text-black">
                 ¿Quién es Foodies?
             </p>
